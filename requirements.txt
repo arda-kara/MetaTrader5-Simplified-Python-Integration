@@ -1,1 +1,6 @@
+MetaTrader5==5.0.32
+pandas==1.4.3
+numpy==1.23.1
+matplotlib==3.5.2
+pyarrow==8.0.0
 
