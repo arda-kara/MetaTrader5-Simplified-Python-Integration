@@ -2,7 +2,7 @@
 
 # MetaTrader5 Integration Client
 
-This project provides a user-friendly integration with MetaTrader5, utilizing the existing MetaTrader5 library. It is designed to simplify the process of interacting with MetaTrader5, making it more accessible and easier to use.
+This project provides a user-friendly integration with MetaTrader5, utilizing the existing MetaTrader5 library. It is designed to simplify interacting with MetaTrader5, making it more accessible and easier to use. It only has access to client-side processes, meaning that fee swapping and similar broker-side operations are not supported. A fully integrated API is in development.
 
 ## Table of Contents
 
@@ -47,6 +47,9 @@ To install the MetaTrader5 Integration Client, follow these steps:
 2. Initialize the client.
 3. Connect to the MetaTrader5 server.
 4. Perform desired trading operations.
+
+P.S. You can refer to ´main.py´ for example usage. For more information on client-side request types, click [here](https://www.mql5.com/en/docs/python_metatrader5).
+
 
 ## Contributing
 
