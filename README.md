@@ -1,4 +1,5 @@
 ---
+![image](https://github.com/user-attachments/assets/8bc04bd1-9297-46ce-89f0-9792ece88966)
 
 # MetaTrader5 Integration Client
 
